@@ -22,7 +22,7 @@ requirements:
     - python
     - zlib
     - libtool
-    - xerces-c
+    - xerces-c=3.1.4
     - gsl
     - boost
     - eigen
@@ -35,7 +35,7 @@ requirements:
   run:
     - python
     - zlib
-    - xerces-c
+    - xerces-c=3.1.4
     - gsl
     - boost
     - eigen
